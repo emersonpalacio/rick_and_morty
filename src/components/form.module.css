@@ -1,0 +1,24 @@
+#formContainer {
+  display: "flex";
+  flex-direction: "column";
+  align-items: "center";
+  padding: "1rem";
+}
+
+#formInput {
+  width: "50%";
+  padding: "0.5rem";
+  margin-bottom: "1rem";
+  border-radius: "5px";
+  border: "1px solid gray";
+}
+#formbutton {
+  width: "50%";
+  padding: "0.5rem";
+  margin-top: "1rem";
+  border-radius: "5px";
+  background-color: "lightblue";
+  border: "none";
+  cursor: "pointer";
+  color: red;
+}
